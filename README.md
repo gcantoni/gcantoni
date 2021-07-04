@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm George, Fullstack Android developer from 🇮🇹 <b>Bergamo, Italy</b>,  </p>
-Welcome to my page! <br>
 
 <h3>Interests</h3>
 <p> My main interests concern the development of mobile applications and the control systems engineering. </p>
