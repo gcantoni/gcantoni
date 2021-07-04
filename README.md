@@ -10,11 +10,11 @@
 
 <h3>Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcantoni&count_private=true&show_icons=true&theme=buefy&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcantoni&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcantoni&langs_count=10&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcantoni&langs_count=10&layout=compact" />
 </a>
 
 <!--
