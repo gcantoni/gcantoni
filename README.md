@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcantoni&langs_count=10&layout=compact" />
 </a>
 
-<i>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.</i>
+<br><i>NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages i have the most code on Github.</i>
 
 <!--
 **gcantoni/gcantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
