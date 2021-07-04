@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Giorgio, Fullstack Android developer from 🇮🇹 <b>Bergamo, Italy.</b> </p>
+<p>Welcome to my page! </br> I'm Giorgio, fullstack Android developer from 🇮🇹 <b>Bergamo, Italy.</b> </p>
 
 <h3>Interests</h3>
 <p> My main interests concern the development of mobile applications and the control systems engineering. </p>
