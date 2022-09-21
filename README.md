@@ -3,7 +3,7 @@
 👋 &nbsp;Hello, world! <br/> I am Giorgio Cantoni
 ======
 
-I'm a passionate and creative full-stack Android developer from 🇮🇹 <b>Bergamo, Italy.</b>
+I'm a passionate and creative developer from 🇮🇹 <b>Bergamo, Italy.</b>
 
 I consider myself a curious person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset. 
 My main interests concern the development of mobile applications and the control systems engineering.
