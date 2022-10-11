@@ -5,8 +5,7 @@
 
 I'm a passionate and creative developer from 🇮🇹 <b>Bergamo, Italy.</b>
 
-I consider myself a curious person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset. 
-My main interests concern the development of mobile applications and the control systems engineering.
+My main interests concern the development of mobile applications and the vehicles automation (control systems engineering) while my hobbies concern history, in particular the period of the First and Second World Wars, the russian language, the army, the military environment and all the technologies that are related to the military environment.
 
 **You can find me on:**
 
