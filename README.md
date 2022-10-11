@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/30368951?v=4" width="144" align="right" hspace="0" />
+<img src="https://giorgiocantoni.it/assets/images/my_avatar.png" width="144" align="right" hspace="0" />
 
 👋 &nbsp;Hello, world! <br/> I am Giorgio Cantoni
 ======
