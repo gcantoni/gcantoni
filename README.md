@@ -30,5 +30,5 @@ My main interests concern the development of mobile applications and the vehicle
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>
-	![Gcantoni's Github stats](https://github-readme-stats.vercel.app/api?username=gcantoni&show_icons=true&theme=github_dark)
+![Gcantoni's Github stats](https://github-readme-stats.vercel.app/api?username=gcantoni&show_icons=true&theme=transparent)
 </details>
