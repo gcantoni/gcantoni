@@ -30,6 +30,4 @@ My main interests concern the development of mobile applications and the vehicle
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=gcantoni&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats" align="top"/> 
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=gcantoni&layout=compact&langs_count=8&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
 </details>
