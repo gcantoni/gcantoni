@@ -26,9 +26,3 @@ My main interests concern the development of mobile applications and the vehicle
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 	<img src="https://img.shields.io/badge/material%20design-%23222222.svg?&style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
 </details>
-
-<details>
-	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-	<br/>
-![Gcantoni's Github stats](https://github-readme-stats.vercel.app/api?username=gcantoni&show_icons=true&theme=transparent)
-</details>
