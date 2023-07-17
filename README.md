@@ -7,7 +7,7 @@ I'm a passionate and creative developer from 🇮🇹 <b>Bergamo, Italy.</b>
 
 My main interests concern the development of mobile applications and the vehicles automation (control systems engineering) while my hobbies concern history, in particular the period of the First and Second World Wars, the russian language, the army, the military environment and all the technologies that are related to the military environment.
 
-[<img src="https://lanyard-profile-readme.vercel.app/api/228965621478588416" align="right">](https://discord.com/users/829349383673479210)
+[<img src="https://lanyard-profile-readme.vercel.app/api/829349383673479210" align="right">](https://discord.com/users/829349383673479210)
 
 **You can find me on:**
 
