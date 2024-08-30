@@ -1,5 +1,6 @@
 👋 Hello! I am Giorgio
 ===
+I’m an Industrial Computer Engineer. My main interests concern control theory, industrial automation, robotics and software development.
 
 **You can find me on:**
 
