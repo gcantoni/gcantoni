@@ -38,6 +38,6 @@ I’m an Industrial Computer Engineer and an Independent Apps Developer.
 </a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Statistics
 
 ![Nyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcantoni&theme=github_dark&show_icons=true&hide_border=true&border_radius=30)
